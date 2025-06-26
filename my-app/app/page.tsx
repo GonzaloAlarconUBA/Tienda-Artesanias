@@ -1,5 +1,5 @@
-import ArtisanStore from "../artisan-store"
+import ArtesaniasStore from "../artesanias-store"
 
 export default function Page() {
-  return <ArtisanStore />
+  return <ArtesaniasStore />
 }
